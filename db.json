@@ -1,5 +1,5 @@
 {
-  row: {
+  "row": {
     "interested":1,
     "scheduled":1,
     "approved":0,
