@@ -1,9 +1,102 @@
+[
 {
-  "row": {
-    "interested":1,
-    "scheduled":1,
-    "approved":0,
-    "suggested":190,
-    "hired":1
-  }
+"id":156632,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":false
+},
+{
+"id":156631,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":false
+},
+{
+"id":156582,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":false
+},
+{
+"id":156506,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":false
+},
+{
+"id":156501,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":false
+},
+{
+"id":156499,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":true
+},
+{
+"id":156497,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":false
+},
+{
+"id":156496,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":false
+},
+{
+"id":156495,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":false
+},
+{
+"id":156494,
+"jobTitle":"Auxiliar Júnior / Financeiro/Contas a Pagar/Contas a Receber",
+"processEndDate":"01/01/2020",
+"registrationEndDate":"01/01/2020",
+"status":"open",
+"shared":false,
+"publicated":true,
+"isLoadingMatches":false
 }
+]
